@@ -1,0 +1,4 @@
+Model,Overall Accuracy,Avg FIC alphaF=0.10),ω_max (alphaF=0.10)
+BASELINE,0.6973,-0.422,0.2133
+L1,0.7013,-0.416,0.2124
+L2,0.6973,-0.422,0.2133

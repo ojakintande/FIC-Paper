@@ -1,0 +1,8 @@
+,weight,base_risk
+Africa,0.25,0.25
+South_America,0.15,0.2
+North_America,0.1,0.15
+EU,0.2,0.1
+Asia,0.2,0.18
+Arab_Middle_East,0.08,0.22
+Oceania,0.02,0.12

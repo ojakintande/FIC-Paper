@@ -1,0 +1,25 @@
+alphaF,Group Pair,ω,FIC,Tier
+0.05,African_American - Caucasian,0.098365953,-0.967319052,Unacceptable
+0.05,African_American - Hispanic,0.131239736,-1.62479472,Unacceptable
+0.05,African_American - Other_Race,0.165392916,-2.307858311,Unacceptable
+0.05,Caucasian - Hispanic,0.032873783,0.342524332,Questionable
+0.05,Caucasian - Other_Race,0.067026963,-0.340539259,Unacceptable
+0.05,Hispanic - Other_Race,0.03415318,0.316936409,Questionable
+0.1,African_American - Caucasian,0.098365953,0.016340474,Questionable
+0.1,African_American - Hispanic,0.131239736,-0.31239736,Unacceptable
+0.1,African_American - Other_Race,0.165392916,-0.653929156,Unacceptable
+0.1,Caucasian - Hispanic,0.032873783,0.671262166,Acceptable
+0.1,Caucasian - Other_Race,0.067026963,0.329730371,Questionable
+0.1,Hispanic - Other_Race,0.03415318,0.658468204,Acceptable
+0.15,African_American - Caucasian,0.098365953,0.344226983,Questionable
+0.15,African_American - Hispanic,0.131239736,0.125068427,Questionable
+0.15,African_American - Other_Race,0.165392916,-0.102619437,Unacceptable
+0.15,Caucasian - Hispanic,0.032873783,0.780841444,Optimum
+0.15,Caucasian - Other_Race,0.067026963,0.55315358,Acceptable
+0.15,Hispanic - Other_Race,0.03415318,0.772312136,Optimum
+0.2,African_American - Caucasian,0.098365953,0.508170237,Acceptable
+0.2,African_American - Hispanic,0.131239736,0.34380132,Questionable
+0.2,African_American - Other_Race,0.165392916,0.173035422,Questionable
+0.2,Caucasian - Hispanic,0.032873783,0.835631083,Optimum
+0.2,Caucasian - Other_Race,0.067026963,0.664865185,Acceptable
+0.2,Hispanic - Other_Race,0.03415318,0.829234102,Optimum
