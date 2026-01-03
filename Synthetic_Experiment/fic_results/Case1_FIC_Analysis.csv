@@ -1,0 +1,4 @@
+Group Pair,alphaF=0.05,Hypothesis alphaF=0.05,alphaF=0.1,Hypothesis alphaF=0.1,alphaF=0.15,Hypothesis alphaF=0.15,alphaF=0.2,Hypothesis alphaF=0.2
+Female - Non-binary,"omega=0.1496, FIC=-1.993",Reject H₀ (Unfair),"omega=0.1496, FIC=-0.496",Reject H₀ (Unfair),"omega=0.1496, FIC=0.002",Fail to reject Ho (Fair),"omega=0.1496, FIC=0.252",Fail to reject Ho (Fair)
+Male - Female,"omega=0.0636, FIC=-0.272",Reject H₀ (Unfair),"omega=0.0636, FIC=0.364",Fail to reject Ho (Fair),"omega=0.0636, FIC=0.576",Fail to reject Ho (Fair),"omega=0.0636, FIC=0.682",Fail to reject Ho (Fair)
+Male - Non-binary,"omega=0.2133, FIC=-3.265",Reject H₀ (Unfair),"omega=0.2133, FIC=-1.133",Reject H₀ (Unfair),"omega=0.2133, FIC=-0.422",Reject H₀ (Unfair),"omega=0.2133, FIC=-0.066",Reject H₀ (Unfair)

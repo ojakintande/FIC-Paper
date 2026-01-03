@@ -1,0 +1,7 @@
+Group Pair,alphaF=0.05,Hypothesis alphaF=0.05,alphaF=0.1,Hypothesis alphaF=0.1,alphaF=0.15,Hypothesis alphaF=0.15,alphaF=0.2,Hypothesis alphaF=0.2
+APAI - Other,"omega=0.1529, FIC=-2.057",Reject H₀ (Unfair),"omega=0.1529, FIC=-0.529",Reject H₀ (Unfair),"omega=0.1529, FIC=-0.019",Reject H₀ (Unfair),"omega=0.1529, FIC=0.236",Fail to reject Ho (Fair)
+Black - APAI,"omega=0.0842, FIC=-0.685",Reject H₀ (Unfair),"omega=0.0842, FIC=0.158",Fail to reject Ho (Fair),"omega=0.0842, FIC=0.438",Fail to reject Ho (Fair),"omega=0.0842, FIC=0.579",Fail to reject Ho (Fair)
+Black - Other,"omega=0.0686, FIC=-0.373",Reject H₀ (Unfair),"omega=0.0686, FIC=0.314",Fail to reject Ho (Fair),"omega=0.0686, FIC=0.542",Fail to reject Ho (Fair),"omega=0.0686, FIC=0.657",Fail to reject Ho (Fair)
+White - APAI,"omega=0.0007, FIC=0.985",Fail to reject Ho (Fair),"omega=0.0007, FIC=0.993",Fail to reject Ho (Fair),"omega=0.0007, FIC=0.995",Fail to reject Ho (Fair),"omega=0.0007, FIC=0.996",Fail to reject Ho (Fair)
+White - Black,"omega=0.0835, FIC=-0.670",Reject H₀ (Unfair),"omega=0.0835, FIC=0.165",Fail to reject Ho (Fair),"omega=0.0835, FIC=0.443",Fail to reject Ho (Fair),"omega=0.0835, FIC=0.583",Fail to reject Ho (Fair)
+White - Other,"omega=0.1521, FIC=-2.043",Reject H₀ (Unfair),"omega=0.1521, FIC=-0.521",Reject H₀ (Unfair),"omega=0.1521, FIC=-0.014",Reject H₀ (Unfair),"omega=0.1521, FIC=0.239",Fail to reject Ho (Fair)
